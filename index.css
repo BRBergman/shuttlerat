@@ -6,7 +6,7 @@ html {
     font-style: normal;
     text-shadow: 1px 1px 2px #000000;
     /*#617161;*/
-    color: #1065e5;
+    color: #bbd6ff;
     scrollbar-width: none;
 }
 
@@ -46,8 +46,8 @@ h1 {
     padding-bottom: 70px;
     display: flex;
     justify-content: space-between;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 .outerboxes {
